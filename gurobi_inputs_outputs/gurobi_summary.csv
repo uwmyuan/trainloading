@@ -1,0 +1,5 @@
+scale,gurobi_obj,note
+1,101.0,complete solve (Sensitivity Analysis Objective)
+2,300.0,INCOMPLETE log: best incumbent only; table states 299 (optimal)
+3,N/A,infeasible / >10h (no data) — matches table
+4,N/A,infeasible / >10h (no data) — matches table

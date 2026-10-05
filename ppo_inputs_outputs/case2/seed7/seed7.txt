@@ -1,0 +1,49 @@
+case=case2 seed=7 obj=352.0 penalty=0.0 score=352.0 time=155.61s
+================================================================================
+--- Detailed Crane Schedule ---
+  Crane 0 (Zone: [0, 1]):
+    Task 10-Op1: Start=2.0, End=4.0, Loc: (2,3)->(2,5), Transport: -/Train 1
+    Task 2-Op1: Start=6.0, End=9.0, Loc: (2,3)->(1,5), Transport: -/Train 1
+    Task 4-Op1: Start=21.0, End=25.0, Loc: (2,1)->(2,5), Transport: Truck 0/Train 2
+    Task 12-Op1: Start=39.0, End=42.0, Loc: (1,2)->(1,5), Transport: -/Train 4
+    Task 17-Op1: Start=44.0, End=45.0, Loc: (2,4)->(2,5), Transport: -/Train 4
+    Task 6-Op2: Start=45.0, End=45.0, Loc: (2,5)->(2,5), Transport: -/-, Debug: src=4, gamma=0, s[src]=0
+  Crane 1 (Zone: [2, 3]):
+    Task 11-Op1: Start=2.0, End=3.0, Loc: (4,4)->(4,5), Transport: -/Train 1
+    Task 5-Op1: Start=4.0, End=7.0, Loc: (3,5)->(3,2), Transport: -/Train 1
+    Task 3-Op1: Start=7.0, End=8.0, Loc: (3,2)->(3,1), Transport: Truck 1/-
+    Task 7-Op2: Start=12.0, End=13.0, Loc: (3,2)->(3,1), Transport: Truck 2/-, Debug: src=5, gamma=1, s[src]=1
+    Task 16-Op1: Start=21.0, End=24.0, Loc: (4,2)->(4,5), Transport: -/Train 2
+    Task 15-Op1: Start=26.0, End=27.0, Loc: (3,4)->(3,5), Transport: -/Train 2
+  Crane 2 (Zone: [4, 5]):
+    Task 1-Op1: Start=2.0, End=3.0, Loc: (5,4)->(5,5), Transport: -/Train 1
+    Task 13-Op1: Start=21.0, End=22.0, Loc: (5,4)->(5,5), Transport: -/Train 2
+    Task 9-Op1: Start=39.0, End=41.0, Loc: (6,3)->(6,5), Transport: -/Train 4
+    Task 14-Op1: Start=43.0, End=46.0, Loc: (6,3)->(5,5), Transport: -/Train 4
+
+  --- Mapped Task Debug ---
+    Mapped Task 6: src=4, gamma=0, s[src]=0, trains=[], trucks=[]
+    Mapped Task 7: src=5, gamma=1, s[src]=1, trains=[], trucks=[2]
+
+  --- Train Capacity Debug ---
+    Train 1: Used=5.0, Capacity=5.0
+    Train 2: Used=4.0, Capacity=4.0
+    Train 4: Used=4.0, Capacity=5.0
+
+  --- Transport Schedule ---
+  Trucks:
+    Truck 0: Arrival=19.0, Departure=22.0
+    Truck 1: Arrival=6.0, Departure=9.0
+    Truck 2: Arrival=11.0, Departure=14.0
+  Trains:
+    Train 0: Arrival=1.0, Departure=1.0
+    Train 1: Arrival=1.0, Departure=10.0
+    Train 2: Arrival=20.0, Departure=28.0
+    Train 3: Arrival=47.0, Departure=47.0
+    Train 4: Arrival=38.0, Departure=47.0
+  -------------------------------
+
+
+=== Sensitivity Analysis Results ===
+                    Scenario  w  Cranes  Objective  Raw Objective  Processing Time  Train Wait  Truck Wait  Container Dwell  Raw Container Dwell                   Zone Assignment  Solver Time (s)  Scenario Time (s)
+Default_Weights_W=1_Cranes=3  1       3      352.0          343.0             30.0        47.0        9.0             257.0                 257.0 {0: [0, 1], 1: [2, 3], 2: [4, 5]}         155.612141           155.612141

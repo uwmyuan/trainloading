@@ -1,0 +1,241 @@
+Iter 0: obj=207.000, penalty=1400.000, score=140207.000, best=140207.000
+Iter 1: obj=207.000, penalty=1400.000, score=140207.000, best=140207.000
+Iter 2: obj=153.000, penalty=1400.000, score=140153.000, best=140153.000
+Iter 3: obj=145.000, penalty=1300.000, score=130145.000, best=130145.000
+Iter 4: obj=145.000, penalty=1300.000, score=130145.000, best=130145.000
+Iter 5: obj=145.000, penalty=1300.000, score=130145.000, best=130145.000
+Iter 6: obj=145.000, penalty=1300.000, score=130145.000, best=130145.000
+Iter 7: obj=182.000, penalty=1000.000, score=100182.000, best=100182.000
+Iter 8: obj=262.000, penalty=1000.000, score=100262.000, best=100182.000
+Iter 9: obj=232.000, penalty=1000.000, score=100232.000, best=100182.000
+Iter 10: obj=232.000, penalty=1000.000, score=100232.000, best=100182.000
+Iter 11: obj=194.000, penalty=1000.000, score=100194.000, best=100182.000
+Iter 12: obj=194.000, penalty=1000.000, score=100194.000, best=100182.000
+Iter 13: obj=194.000, penalty=1000.000, score=100194.000, best=100182.000
+Iter 14: obj=194.000, penalty=1000.000, score=100194.000, best=100182.000
+Iter 15: obj=286.000, penalty=700.000, score=70286.000, best=70286.000
+Iter 16: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 17: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 18: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 19: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 20: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 21: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 22: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 23: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 24: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 25: obj=299.000, penalty=600.000, score=60299.000, best=60299.000
+Iter 26: obj=415.000, penalty=300.000, score=30415.000, best=30415.000
+Iter 27: obj=415.000, penalty=300.000, score=30415.000, best=30415.000
+Iter 28: obj=152.000, penalty=200.000, score=20152.000, best=20152.000
+Iter 29: obj=152.000, penalty=200.000, score=20152.000, best=20152.000
+Iter 30: obj=152.000, penalty=200.000, score=20152.000, best=20152.000
+Iter 31: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 32: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 33: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 34: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 35: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 36: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 37: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 38: obj=153.000, penalty=100.000, score=10153.000, best=10153.000
+Iter 39: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 40: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 41: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 42: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 43: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 44: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 45: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 46: obj=168.000, penalty=0.000, score=168.000, best=137.000
+Iter 47: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 48: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 49: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 50: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 51: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 52: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 53: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 54: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 55: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 56: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 57: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 58: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 59: obj=220.000, penalty=0.000, score=220.000, best=137.000
+Iter 60: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 61: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 62: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 63: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 64: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 65: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 66: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 67: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 68: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 69: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 70: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 71: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 72: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 73: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 74: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 75: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 76: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 77: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 78: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 79: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 80: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 81: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 82: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 83: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 84: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 85: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 86: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 87: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 88: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 89: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 90: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 91: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 92: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 93: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 94: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 95: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 96: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 97: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 98: obj=162.000, penalty=0.000, score=162.000, best=137.000
+Iter 99: obj=138.000, penalty=0.000, score=138.000, best=137.000
+Iter 100: obj=138.000, penalty=0.000, score=138.000, best=137.000
+Iter 101: obj=138.000, penalty=0.000, score=138.000, best=137.000
+Iter 102: obj=207.000, penalty=0.000, score=207.000, best=137.000
+Iter 103: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 104: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 105: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 106: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 107: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 108: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 109: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 110: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 111: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 112: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 113: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 114: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 115: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 116: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 117: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 118: obj=172.000, penalty=0.000, score=172.000, best=137.000
+Iter 119: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 120: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 121: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 122: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 123: obj=137.000, penalty=0.000, score=137.000, best=137.000
+Iter 124: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 125: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 126: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 127: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 128: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 129: obj=167.000, penalty=0.000, score=167.000, best=137.000
+Iter 130: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 131: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 132: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 133: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 134: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 135: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 136: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 137: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 138: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 139: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 140: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 141: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 142: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 143: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 144: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 145: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 146: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 147: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 148: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 149: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 150: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 151: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 152: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 153: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 154: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 155: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 156: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 157: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 158: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 159: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 160: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 161: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 162: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 163: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 164: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 165: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 166: obj=127.000, penalty=0.000, score=127.000, best=127.000
+Iter 167: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 168: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 169: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 170: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 171: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 172: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 173: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 174: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 175: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 176: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 177: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 178: obj=134.000, penalty=0.000, score=134.000, best=127.000
+Iter 179: obj=126.000, penalty=0.000, score=126.000, best=126.000
+Iter 180: obj=126.000, penalty=0.000, score=126.000, best=126.000
+Iter 181: obj=126.000, penalty=0.000, score=126.000, best=126.000
+Iter 182: obj=126.000, penalty=0.000, score=126.000, best=126.000
+Iter 183: obj=126.000, penalty=0.000, score=126.000, best=126.000
+Iter 184: obj=126.000, penalty=0.000, score=126.000, best=126.000
+Iter 185: obj=126.000, penalty=0.000, score=126.000, best=126.000
+Iter 186: obj=134.000, penalty=0.000, score=134.000, best=126.000
+Iter 187: obj=134.000, penalty=0.000, score=134.000, best=126.000
+Iter 188: obj=134.000, penalty=0.000, score=134.000, best=126.000
+Iter 189: obj=134.000, penalty=0.000, score=134.000, best=126.000
+Iter 190: obj=134.000, penalty=0.000, score=134.000, best=126.000
+Iter 191: obj=134.000, penalty=0.000, score=134.000, best=126.000
+Iter 192: obj=217.000, penalty=0.000, score=217.000, best=126.000
+Iter 193: obj=217.000, penalty=0.000, score=217.000, best=126.000
+Iter 194: obj=217.000, penalty=0.000, score=217.000, best=126.000
+Iter 195: obj=217.000, penalty=0.000, score=217.000, best=126.000
+Iter 196: obj=217.000, penalty=0.000, score=217.000, best=126.000
+Iter 197: obj=217.000, penalty=0.000, score=217.000, best=126.000
+Iter 198: obj=217.000, penalty=0.000, score=217.000, best=126.000
+Iter 199: obj=211.000, penalty=0.000, score=211.000, best=126.000
+Iter 200: obj=211.000, penalty=0.000, score=211.000, best=126.000
+--- Detailed Crane Schedule ---
+  Crane 0 (Zone: [0, 1]):
+    Task 10-Op1: Start=2.0, End=4.0, Loc: (2,3)->(2,5), Transport: -/Train 1
+    Task 2-Op1: Start=16.0, End=18.0, Loc: (2,3)->(2,5), Transport: -/Train 2
+  Crane 1 (Zone: [2, 3]):
+    Task 11-Op1: Start=2.0, End=3.0, Loc: (4,4)->(4,5), Transport: -/Train 1
+    Task 5-Op1: Start=4.0, End=7.0, Loc: (3,5)->(3,2), Transport: -/Train 1
+    Task 3-Op1: Start=7.0, End=8.0, Loc: (3,2)->(3,1), Transport: Truck 1/-
+    Task 7-Op2: Start=12.0, End=13.0, Loc: (3,2)->(3,1), Transport: Truck 2/-, Debug: src=5, gamma=1, s[src]=1
+    Task 4-Op1: Start=20.0, End=24.0, Loc: (3,1)->(3,5), Transport: Truck 0/Train 2
+    Task 6-Op2: Start=24.0, End=24.0, Loc: (3,5)->(3,5), Transport: -/-, Debug: src=4, gamma=0, s[src]=0
+  Crane 2 (Zone: [4, 5]):
+    Task 9-Op1: Start=16.0, End=18.0, Loc: (6,3)->(6,5), Transport: -/Train 2
+    Task 1-Op1: Start=20.0, End=21.0, Loc: (5,4)->(5,5), Transport: -/Train 2
+
+  --- Mapped Task Debug ---
+    Mapped Task 6: src=4, gamma=0, s[src]=0, trains=[], trucks=[]
+    Mapped Task 7: src=5, gamma=1, s[src]=1, trains=[], trucks=[2]
+
+  --- Train Capacity Debug ---
+    Train 1: Used=3.0, Capacity=5.0
+    Train 2: Used=4.0, Capacity=4.0
+
+  --- Transport Schedule ---
+  Trucks:
+    Truck 0: Arrival=19.0, Departure=21.0
+    Truck 1: Arrival=6.0, Departure=9.0
+    Truck 2: Arrival=11.0, Departure=14.0
+  Trains:
+    Train 0: Arrival=1.0, Departure=1.0
+    Train 1: Arrival=1.0, Departure=5.0
+    Train 2: Arrival=15.0, Departure=25.0
+    Train 3: Arrival=25.0, Departure=25.0
+  -------------------------------
+
+
+=== Sensitivity Analysis Results ===
+                    Scenario  w  Cranes  Objective  Raw Objective  Processing Time  Train Wait  Truck Wait  Container Dwell  Raw Container Dwell                   Zone Assignment  
+Default_Weights_W=1_Cranes=3  1       3      126.0          118.0             17.0        25.0        8.0             68.0                 68.0 {0: [0, 1], 1: [2, 3], 2: [4, 5]}         
+Convergence CSV saved to: alns_convergence.csv

@@ -1,0 +1,11 @@
+seed=17
+obj=8143.0000
+penalty=0.0000
+feasible=Yes
+score=8143.0000
+iterations_done=5000
+obj_target_reached=False
+resumed=False
+time_s=58234.6
+ws_frac=0.3
+obj_target=6623.0 tol=0.05

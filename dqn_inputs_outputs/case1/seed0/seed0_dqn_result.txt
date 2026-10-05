@@ -1,0 +1,11 @@
+========================================================
+case1 / seed 0 — DQN 推理与 ALNS 细化结果 (抽取自聚合 CSV)
+========================================================
+
+[1] DQN 直接推理 (来自 seed_infer_results.csv)
+seed,obj,penalty,score,feasible,infer_time_s
+0,151.0,300.0,30151.0,False,19.78
+
+[2] DQN 热启动 + ALNS 细化 (来自 seed_infer_alns_results.csv)
+seed,obj,penalty,score,feasible,infer_time_s
+0,107.0,0.0,107.0,True,26.89
